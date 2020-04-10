@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "00155838-E592-4F41-B574-E09ECC9AC22B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2541808A-03BF-4B3E-9A6F-66D33EC22DA5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PuzzleGame/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
+            landmarkName = "doPuzzle(currentState, stateList)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2541808A-03BF-4B3E-9A6F-66D33EC22DA5 - c865f95c2d2b4237"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Puzzle::doPuzzle(State, std::__1::vector&lt;State, std::__1::allocator&lt;State&gt; &gt;)"
+                  moduleName = "PuzzleGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongdohung/Documents/Projects/Algorithm/PuzzleGame/PuzzleGame/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "2541808A-03BF-4B3E-9A6F-66D33EC22DA5 - c865f95c2d2b4237"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Puzzle::doPuzzle(State, std::__1::vector&lt;State, std::__1::allocator&lt;State&gt; &gt;)"
+                  moduleName = "PuzzleGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cuongdohung/Documents/Projects/Algorithm/PuzzleGame/PuzzleGame/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "402CA2E6-8C7C-48D6-9E7E-77DA8AD15A0F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PuzzleGame/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "194"
+            endingLineNumber = "194"
+            landmarkName = "doPuzzle(currentState, stateList)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
